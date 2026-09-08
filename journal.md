@@ -1,1 +1,1 @@
-
+I Successfully created, wired, and DRC-validated my custom 5-key mechanical macro keypad in KiCad, employing 5 Cherry MX switches, SOD-323 diodes, and a 7-pin connector for the Seeeduino XIAO RP2040. Once finalizing my board layout, I created and compressed all the required Gerber and Excellon drill files for production.When I encountered restrictions exporting a STEP file for my 3D model, I swiftly adjusted by taking high-resolution PNG renders straight from KiCad's 3D viewer to present the board visually.
